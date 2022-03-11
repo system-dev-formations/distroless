@@ -1,0 +1,2 @@
+# distroless
+distroless example
